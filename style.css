@@ -1,0 +1,44 @@
+.header {
+    padding: 2px;
+    text-align: left;
+    background: #1abc9c;
+    color: white;
+    font-size: 15px; 
+    
+    }
+    div.ex2 {
+      width: 300px;
+      padding: 25px;
+      box-sizing: border-box;
+      background-color: lightblue;
+    }
+    
+    
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color:white;
+    }
+    
+    li {
+      float: right;
+    }
+    
+    li a {
+      display: block;
+      color: gray;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: #111;
+    }
+    
+    body{
+    background: linear-gradient(transparent 40%,rgb(240, 54, 85) 100%) no-repeat;
+    }
+   
